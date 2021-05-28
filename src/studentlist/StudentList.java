@@ -2,7 +2,7 @@ package studentlist;
 
 /**
  * this file is empty
- * @author Chris Jagernath
+ * @author Chris Jagernath, May 2021
  */
 public class StudentList
 {
