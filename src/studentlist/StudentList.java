@@ -1,7 +1,7 @@
 package studentlist;
 
 /**
- *
+ * this file is empty
  * @author Chris Jagernath
  */
 public class StudentList
